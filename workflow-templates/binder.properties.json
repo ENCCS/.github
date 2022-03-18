@@ -1,0 +1,4 @@
+{
+    "name": "ENCCS repo2docker binder action",
+    "description": "Runs repo2docker and caches resulting Docker image for use with MyBinder.org"
+}

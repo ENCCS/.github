@@ -1,0 +1,4 @@
+{
+    "name": "ENCCS container retention workflow",
+    "description": "Deletes packages older than a week in the GitHub Container Registry."
+}
